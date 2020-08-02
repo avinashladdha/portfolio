@@ -5,7 +5,7 @@ title: 'Crime in India.'
 date: 2020-07-25 14:15:00
 categories: IndependentResearch
 tags: TimeSeriesAnalysis LinearRegression DataMining 
-featured_image: '/img/posts/piechart.jpg'
+featured_image: '/img/posts/piechart.png'
 project_link: 'https://www.linkedin.com/posts/avinashladdha_crime-in-india-activity-6662678356263337984-2WkC'
 button_icon: 'linkedin'
 button_text: 'Visit Project'

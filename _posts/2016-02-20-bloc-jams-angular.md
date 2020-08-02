@@ -1,13 +1,13 @@
 ---
 layout: inner
-position: right
-title: 'Bloc Jams Angular'
-date: 2016-02-20 14:15:00
-categories: development
-tags: JavaScript AngularJS Sass Grunt
-featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
-project_link: 'https://github.com/jamigibbs/bloc-jams-angular'
-button_icon: 'github'
+position: left
+title: 'Crime in India.'
+date: 2020-07-25 14:15:00
+categories: IndependentResearch
+tags: TimeSeriesAnalysis LinearRegression DataMining 
+featured_image: '/img/posts/piechart.jpg'
+project_link: 'https://www.linkedin.com/posts/avinashladdha_crime-in-india-activity-6662678356263337984-2WkC'
+button_icon: 'linkedin'
 button_text: 'Visit Project'
 lead_text: 'A digital music player built using AngularJS'
 ---

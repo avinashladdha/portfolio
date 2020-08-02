@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: "Project Portfolio"
 email: 'avinashladdha007@gmail.com'
-description: "Supervised Machine Learning, Deep Learning, Times Series Analysis, 
-Explorative Data Analysis or Web Development - my project report covers different 
+description: "Machine Learning, Times Series Analysis, 
+Explorative Data Analysis, Data Visualization or Data Mining - my project portfolio covers different 
 subject areas and I am constantly working on new projects.
-  I present all other projects below and link to the code, my blog posts and the hosted projects."
+  Below are links to the code, my blog posts and the hosted projects."
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://avinashladdha.github.io/portfolio" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''

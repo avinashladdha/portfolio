@@ -1,3 +1,5 @@
+
+<!--
 ---
 layout: inner
 position: right
@@ -11,3 +13,4 @@ button_text: 'Visit Rescue Themes'
 button_icon: 'wordpress'
 lead_text: 'Designed and developed all WordPress themes'
 ---
+-->

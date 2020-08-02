@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Crime in India.'
 date: 2020-07-25 14:15:00
 categories: IndependentResearch

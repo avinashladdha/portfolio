@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'Misguided steps or unfulfilled wishes?'
+title: 'Misguided steps or unfulfilled wishes? A look into juvenile crimes.'
 date: 2020-07-10 15:56:00
 categories: Visualisation
 tags: DataMining GeoSpatial 

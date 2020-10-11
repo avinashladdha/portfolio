@@ -275,14 +275,14 @@ button.btn, input.btn {
     h3.title {
       position: relative;
       margin-bottom: 1.5em;
-      &:after {
+    /*  &:after {
         content: none; /* changes made here replace with :   '' */
-        position: absolute;
-        top: 0; /* changes made here replace with :   1.5em */
-        left: 0; /* changes made here replace with :   '' */
-        width: ;/* changes made here replace with :   3em */
-        height: ;/* changes made here replace with :   3px */
-        background-color: #ECEFF1;
+      /*   position: absolute;
+      /*   top: 0; /* changes made here replace with :   1.5em */
+      /*   left: 0; /* changes made here replace with :   '' */
+      /*   width: ;/* changes made here replace with :   3em */
+      /*   height: ;/* changes made here replace with :   3px */
+      /*   background-color: #ECEFF1; */
       }
     }
     .excerpt {

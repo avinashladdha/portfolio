@@ -226,7 +226,7 @@ button.btn, input.btn {
   margin: 0 auto;
   margin-bottom: 1em;
   &:after {
-    content: '';
+    content: none ;  /* changes made here replace with :   '' */
     position: absolute;
     top: 1.35em;
     width: 3em;
@@ -278,10 +278,10 @@ button.btn, input.btn {
       &:after {
         content: none; /* changes made here replace with :   '' */
         position: absolute;
-        top: 1.5em;
-        left: 0;
-        width: 3em;
-        height: 3px;
+        top: 0; /* changes made here replace with :   1.5em */
+        left: 0; /* changes made here replace with :   '' */
+        width: ;/* changes made here replace with :   3em */
+        height: ;/* changes made here replace with :   3px */
         background-color: #ECEFF1;
       }
     }

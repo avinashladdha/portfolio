@@ -276,7 +276,7 @@ button.btn, input.btn {
       position: relative;
       margin-bottom: 1.5em;
       &:after {
-        content: '' ; /* changes made here , replcae with : '' */
+        content: none ; /* changes made here , replcae with : '' */
         position: relative;
         top: 1.5em;
         left: 0;

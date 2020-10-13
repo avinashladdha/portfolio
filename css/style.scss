@@ -260,7 +260,8 @@ button.btn, input.btn {
   }
   img.img-responsive {
     @include bp-xsmall {
-      display: none;
+      display: block; /* replcae block by none*/
+      height: auto; /* remove geight param */ 
     }
     @include bp-small {
       display: none;

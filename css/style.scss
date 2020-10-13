@@ -262,9 +262,13 @@ button.btn, input.btn {
     @include bp-xsmall {
       display: block; /* replcae block by none*/
       height: auto; /* remove geight param */ 
+	margin: 0 auto;
     }
     @include bp-small {
-      display: none;
+      display: block; /* replcae block by none*/
+      height: auto; /* remove geight param */ 
+      margin: 0 auto;
+     /* display: none; */
     }
   }
   .content {

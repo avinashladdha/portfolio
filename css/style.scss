@@ -277,12 +277,12 @@ button.btn, input.btn {
       margin-bottom: 1.5em;
       &:after {
         content: none ; /* changes made here , replcae with : '' */
-        position: relative;
+ /*       position: relative;
         top: 1.5em;
         left: 0;
         width: 3em;
         height: 3px;
-        background-color: #ECEFF1;
+        background-color: #ECEFF1; */
       }
     }
     .excerpt {

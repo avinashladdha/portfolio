@@ -259,12 +259,12 @@ button.btn, input.btn {
     margin-bottom: 2em;
   }
   img.img-responsive {
-    @include bp-xsmall {
+    @include bp-medium { /* replace with 'bp-xsmall' */
       display: block; /* replcae block by none*/
       height: auto; /* remove geight param */ 
 	margin: 0 auto;
     }
-    @include bp-small {
+    @include bp-medium { /* replace with 'bp-xsmall' */
       display: block; /* replcae block by none*/
       height: auto; /* remove geight param */ 
       margin: 0 auto;

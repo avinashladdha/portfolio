@@ -276,8 +276,8 @@ button.btn, input.btn {
       position: relative;
       margin-bottom: 1.5em;
       &:after {
-        content: '';
-        position: absolute;
+        content: '' ; /* changes made here , replcae with : '' */
+        position: relative;
         top: 1.5em;
         left: 0;
         width: 3em;
